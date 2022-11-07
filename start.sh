@@ -1,7 +1,7 @@
 #!/bin/sh
 
 PORT=80
-UUID=6c4297a4-0574-41ad-a64f-edce3a3cdaa9
+UUID=efe4f360-5737-4caf-9a3f-b592ea05f502
 WebPage=https://bing.com
 CaddyConfig=https://raw.githubusercontent.com/yoehuat/Nn2/main/etc/Caddyfile
 XRayConfig=https://raw.githubusercontent.com/yoehuat/Nn2/main/etc/xray.json
