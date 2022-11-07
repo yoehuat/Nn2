@@ -57,7 +57,7 @@
     * 伪装类型：none
     * 伪装域名：
     * 路径：/api-vl-ss 或 /api-vm-ss
-    * 底层传输安全：tls
+    * 底层传输安全：t-l-s
     * 跳过证书验证：false
     * SNI：XXX--XXX--4h6hhh7t7x5j.code.run
   ```
